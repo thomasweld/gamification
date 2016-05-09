@@ -1,0 +1,35 @@
+
+.container {
+  padding: 1em;
+  max-width: 600px;
+  margin: 0 auto;
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  .characters {
+    overflow: auto;
+
+    .morty {
+      float: left;
+
+      img {
+        margin: 0 auto;
+      }
+    }
+
+    .rick {
+      float: right;
+    }
+
+  }
+
+  button {
+    display: block;
+    clear: both;
+    width: 10em;
+    margin: 50px auto;
+  }
+
+}
