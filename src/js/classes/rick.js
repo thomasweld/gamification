@@ -2,6 +2,7 @@ export class Rick {
 
   constructor() {
     this.progress = 0;
+    this.quote = '';
   }
 
   argues(arguePoints) {
@@ -9,5 +10,9 @@ export class Rick {
     console.log(this.progress);
     rickProgress.value = this.progress;
   }
+
+  // quotes(rickQuotesList) {
+  //   rickQuotes = rickQuotesList[ (_.random(1, 10)) ];
+  // }
 
 }

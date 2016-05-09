@@ -1,11 +1,9 @@
-# Project Description
+# Suge Link - http://tiy-thomas-gamification.surge.sh/
 
-This is a basic template for starting projects.
+## Create a Game
 
-## Deployment
-
-To deploy your project just run:
-
-- Make sure you have a lowercase folder name
-- `npm run deploy`
-- You should have a 'surge.sh' link now for your project
+- Must contain Classes
+- You must have tests for any classes you write, and they need to pass
+- Must have some type of logic built into it, even it that is just that there is a random winner each time.
+- Must have a nice design around it
+- Must be deployed to Surge and completely working
