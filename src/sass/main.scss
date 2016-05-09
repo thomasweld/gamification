@@ -13,6 +13,7 @@
 
     .morty {
       float: left;
+      max-width: 300px;
 
       img {
         margin: 0 auto;
@@ -21,6 +22,7 @@
 
     .rick {
       float: right;
+      max-width: 300px;
     }
 
   }
